@@ -1,0 +1,6 @@
+I think the biggest thing that changed from Project 1 to this workflow was that by asking Codex to write the code in a very verbose, beginner-friendly style, I was able to get a better understanding of what steps the AI agent followed to get the output it got.
+I think this is very useful because you can spot where it might have made a mistake and you can feel more confident about the output because you are able to see the steps it takes to get to the output.
+I think it is still valuable to give good prompts to the AI agent, but I think the control now is in being able to look at the reasoning behind the output and catching where the agent is doing something you don't like, and asking it to fix that specific thing. 
+What I would do next if I had one more week, is I'd like to use the other file we used in the first project and do year-over-year comparisons.
+I think this workflow could be helpful when working in small business accounting. For example, you could help your clients create a workflow like this that analyzes inventory data, then calculates inventory turnover ration, and finally ranks the products based
+on this ratio, so your clients know what products are being sold more and which less.
