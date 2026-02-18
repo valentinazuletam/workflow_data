@@ -1,0 +1,13 @@
+Elective Course Ranking Run Summary
+----------------------------------------
+Input dataset: exit_survey_2024.xlsx
+Total survey rows loaded: 65
+Elective rating columns used: 8
+Valid rating records analyzed: 130
+
+Top 5 electives by average rating:
+  #1: ACC 6020 Advanced Financial Application (avg=5.0, n=5)
+  #2: ACC 679R Taxation of Business Entities II (avg=4.577, n=26)
+  #3: ACC 6600 Business Law for Accountants (if taken as an elective) (avg=4.273, n=11)
+  #4: ACC 6410 Tax Research & Procedure (avg=4.25, n=4)
+  #5: ACC 6150 Information Systems Audit (avg=4.143, n=28)
